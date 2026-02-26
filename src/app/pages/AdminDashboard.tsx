@@ -137,7 +137,7 @@ export default function AdminDashboard() {
         <div className="flex items-center justify-between">
           <div>
             <h1 className="text-3xl font-bold text-gray-900">Tableau de bord Administrateur</h1>
-            <p className="text-gray-600 mt-1">Vue d'ensemble de la plateforme</p>
+            <p className="text-gray-600 mt-1">Vue d'ensemble de la plateforme LivraCash</p>
           </div>
           <Button variant="outline" onClick={fetchStats} size="sm">
             <RefreshCw className="h-4 w-4 mr-2" />
@@ -240,7 +240,7 @@ export default function AdminDashboard() {
             </CardHeader>
             <CardContent>
               <div className="text-2xl font-bold">{stats.products.active}</div>
-              <p className="text-xs text-gray-600 mt-1">Sur la plateforme</p>
+              <p className="text-xs text-gray-600 mt-1">Sur la plateforme LivraCash</p>
             </CardContent>
           </Card>
         </div>

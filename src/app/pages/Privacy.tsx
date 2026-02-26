@@ -16,7 +16,7 @@ export default function Privacy() {
                 <section className="py-12">
                     <div className="container mx-auto px-4 max-w-4xl">
                         <div className="prose max-w-none text-gray-700 space-y-6">
-                            <p className="font-medium text-lg">Chez FinMarket, nous accordons une grande importance à la confidentialité de vos données...</p>
+                            <p className="font-medium text-lg">Chez LivraCash, nous accordons une grande importance à la confidentialité de vos données...</p>
 
                             <h3 className="text-xl font-bold text-gray-900">1. Collecte des données</h3>
                             <p>Nous collectons les informations que vous nous fournissez lors de votre inscription et de l'utilisation de nos services.</p>

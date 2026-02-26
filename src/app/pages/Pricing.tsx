@@ -15,7 +15,7 @@ export default function Pricing() {
     const plans = [
         {
             name: "Gratuit (Essai)",
-            description: "Idéal pour tester la plateforme",
+            description: "Idéal pour tester la plateforme LivraCash",
             price: { monthly: 0, yearly: 0 },
             commission: "0%",
             features: [

@@ -106,7 +106,7 @@ export default function OrderConfirmation() {
           <nav className="flex items-center justify-between">
             <Link to="/marketplace" className="flex items-center gap-2">
               <Store className="h-8 w-8 text-blue-600" />
-              <span className="text-2xl font-bold text-gray-900">FinMarket</span>
+              <span className="text-2xl font-bold text-gray-900">LivraCash</span>
             </Link>
           </nav>
         </div>
@@ -133,7 +133,7 @@ export default function OrderConfirmation() {
             Commande chez: <span className="text-blue-700">{order.vendor?.shop_settings?.name || `${order.vendor?.first_name || ''} ${order.vendor?.last_name || ''}`}</span>
           </h2>
           <p className="text-sm text-blue-600">
-            Marché: FinMarket
+            Marché: LivraCash
           </p>
         </div>
 
@@ -159,7 +159,7 @@ export default function OrderConfirmation() {
               <div>
                 <div className="flex items-center gap-2">
                   <Store className="h-6 w-6 text-gray-900" />
-                  <span className="text-2xl font-bold text-gray-900">FinMarket</span>
+                  <span className="text-2xl font-bold text-gray-900">LivraCash</span>
                 </div>
                 <div className="text-xs text-gray-500 uppercase tracking-wider ml-8">Marketplace</div>
               </div>
@@ -260,13 +260,13 @@ export default function OrderConfirmation() {
             </div>
             <h3 className="text-xl font-bold text-gray-900 mb-2">Votre commande est en cours de préparation</h3>
             <p className="text-gray-600 max-w-lg mx-auto">
-              Nous vous remercions d'avoir choisi FinMarket. Notre équipe travaille activement à préparer votre commande.
+              Nous vous remercions d'avoir choisi LivraCash. Notre équipe travaille activement à préparer votre commande.
             </p>
           </div>
 
           {/* Print Footer */}
           <div className="hidden print:block text-center text-[10px] text-gray-400 mt-4 border-t pt-2">
-            <p>FinMarket - https://shopzone</p>
+            <p>LivraCash - https://shopzone</p>
             <p>Merci pour votre confiance !</p>
           </div>
         </div>

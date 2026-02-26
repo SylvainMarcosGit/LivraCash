@@ -196,7 +196,7 @@ export default function VendorOrderDetails() {
                                 <div>
                                     <div className="flex items-center gap-2">
                                         <Store className="h-6 w-6 text-gray-900" />
-                                        <span className="text-2xl font-bold text-gray-900">FinMarket</span>
+                                        <span className="text-2xl font-bold text-gray-900">LivraCash</span>
                                     </div>
                                     <div className="text-xs text-gray-500 uppercase tracking-wider ml-8">Marketplace</div>
                                 </div>
@@ -306,7 +306,7 @@ export default function VendorOrderDetails() {
 
                         {/* Print Footer */}
                         <div className="hidden print:block text-center text-[10px] text-gray-400 mt-4 border-t pt-2">
-                            <p>FinMarket - https://shopzone</p>
+                            <p>LivraCash - https://shopzone</p>
                             <p>Merci pour votre confiance !</p>
                         </div>
                     </div>

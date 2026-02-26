@@ -16,16 +16,16 @@ export default function Terms() {
                 <section className="py-12">
                     <div className="container mx-auto px-4 max-w-4xl">
                         <div className="prose max-w-none text-gray-700 space-y-6">
-                            <p className="font-medium text-lg">Bienvenue sur FinMarket. En utilisant notre plateforme, vous acceptez les conditions suivantes...</p>
+                            <p className="font-medium text-lg">Bienvenue sur LivraCash. En utilisant la plateforme LivraCash, vous acceptez les conditions suivantes...</p>
 
                             <h3 className="text-xl font-bold text-gray-900">1. Acceptation des conditions</h3>
-                            <p>L'accès et l'utilisation de FinMarket sont soumis à l'acceptation et au respect des présentes Conditions Générales d'Utilisation.</p>
+                            <p>L'accès et l'utilisation de LivraCash sont soumis à l'acceptation et au respect des présentes Conditions Générales d'Utilisation.</p>
 
                             <h3 className="text-xl font-bold text-gray-900">2. Services proposés</h3>
-                            <p>FinMarket est une place de marché permettant aux vendeurs de proposer leurs produits et aux acheteurs de les commander.</p>
+                            <p>LivraCash est une place de marché permettant aux vendeurs de proposer leurs produits et aux acheteurs de les commander.</p>
 
                             <h3 className="text-xl font-bold text-gray-900">3. Responsabilités</h3>
-                            <p>FinMarket agit en tant qu'intermédiaire et ne saurait être tenu responsable des produits vendus par les vendeurs tiers.</p>
+                            <p>LivraCash agit en tant qu'intermédiaire et ne saurait être tenu responsable des produits vendus par les vendeurs tiers.</p>
 
                             <h3 className="text-xl font-bold text-gray-900">4. Modification des conditions</h3>
                             <p>Nous nous réservons le droit de modifier à tout moment les présentes conditions. Les changements seront effectifs dès leur publication.</p>

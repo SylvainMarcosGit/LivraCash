@@ -209,7 +209,7 @@ export default function VendorShop() {
 
                   <div className="pt-3 border-t space-y-1 text-xs text-gray-600">
                     <div className="flex justify-between">
-                      <span>sur la plateforme depuis:</span>
+                      <span>sur la plateforme LivraCash depuis:</span>
                       <span className="font-medium">{vendor.joinedDate}</span>
                     </div>
                     <div className="flex justify-between">

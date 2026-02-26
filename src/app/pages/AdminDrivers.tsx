@@ -134,7 +134,7 @@ export default function AdminDrivers() {
     };
 
     const handleWhatsAppClick = (phone: string, name: string) => {
-        const message = `Bonjour ${name}, c'est l'administration FinMarket.`;
+        const message = `Bonjour ${name}, c'est l'administration LivraCash.`;
         const url = `https://wa.me/${phone.replace('+', '')}?text=${encodeURIComponent(message)}`;
         window.open(url, '_blank');
     };

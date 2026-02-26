@@ -45,7 +45,7 @@ export default function HowItWorks() {
                             Comment ça marche ?
                         </h1>
                         <p className="text-xl text-gray-600 max-w-2xl mx-auto mb-8">
-                            Découvrez comment FinMarket facilite la vente et l'achat en ligne.
+                            Découvrez comment LivraCash facilite la vente et l'achat en ligne.
                         </p>
                     </div>
                 </section>
@@ -87,7 +87,7 @@ export default function HowItWorks() {
                                     Vos avantages
                                 </h2>
                                 <p className="text-xl text-gray-600">
-                                    Pourquoi choisir FinMarket pour développer votre activité ?
+                                    Pourquoi choisir LivraCash pour développer votre activité ?
                                 </p>
                             </div>
 

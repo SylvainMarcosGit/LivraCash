@@ -95,7 +95,7 @@ export default function Marketplace() {
             <Link to="/" className="flex items-center gap-2">
               <ArrowLeft className="h-5 w-5 text-gray-600" />
               <Store className="h-8 w-8 text-blue-600" />
-              <span className="text-2xl font-bold text-gray-900">FinMarket</span>
+              <span className="text-2xl font-bold text-gray-900">LivraCash</span>
             </Link>
 
             <div className="flex items-center gap-2 md:gap-4">

@@ -168,7 +168,7 @@ return <h1>{t("dashboard")}</h1>;
 ## 🔒 Role-Based Access Control
 
 ### Roles
-- **Admin**: Full platform access (vendor management, KYC approvals)
+ - **Admin**: Full LivraCash platform access (vendor management, KYC approvals)
 - **Merchant**: Vendor access (dashboard, transactions, payments)
 
 ### Route Protection

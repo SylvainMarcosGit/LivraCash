@@ -9,10 +9,10 @@ export function PublicFooter() {
                     <div>
                         <div className="flex items-center gap-2 mb-4">
                             <Store className="h-6 w-6" />
-                            <span className="text-xl font-bold">FinMarket</span>
+                            <span className="text-xl font-bold">LivraCash</span>
                         </div>
                         <p className="text-gray-400 text-sm">
-                            La plateforme de référence pour le commerce en ligne au Bénin.
+                            LivraCash : la plateforme de référence pour le commerce en ligne au Bénin.
                         </p>
                     </div>
 
@@ -45,7 +45,7 @@ export function PublicFooter() {
                 </div>
 
                 <div className="border-t border-gray-800 mt-12 pt-8 text-center text-sm text-gray-400">
-                    <p>© 2026 FinMarket. Tous droits réservés.</p>
+                    <p>© 2026 LivraCash. Tous droits réservés.</p>
                 </div>
             </div>
         </footer>

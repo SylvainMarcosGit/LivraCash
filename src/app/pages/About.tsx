@@ -77,7 +77,7 @@ export default function About() {
                     <div className="absolute inset-0 bg-black/10"></div>
                     <div className="container mx-auto px-4 text-center relative z-10">
                         <h1 className="text-5xl md:text-6xl font-bold mb-6 animate-fade-in">
-                            FinMarket
+                            LivraCash
                         </h1>
                         <p className="text-2xl md:text-3xl font-light mb-4 text-blue-100">
                             Votre Marketplace de Confiance
@@ -129,13 +129,13 @@ export default function About() {
                         </div>
                         <div className="prose lg:prose-xl mx-auto text-gray-700 text-center">
                             <p className="text-xl leading-relaxed">
-                                FinMarket révolutionne le commerce en ligne au Bénin en créant un écosystème
+                                LivraCash révolutionne le commerce en ligne au Bénin en créant un écosystème
                                 où <strong>vendeurs locaux</strong>, <strong>acheteurs</strong> et <strong>livreurs</strong>
                                 collaborent pour une expérience d'achat exceptionnelle.
                             </p>
                             <p className="mt-6 text-lg">
                                 Nous croyons au potentiel du commerce digital pour transformer l'économie locale.
-                                Notre plateforme offre aux entrepreneurs une vitrine moderne pour développer leur
+                                LivraCash offre aux entrepreneurs une vitrine moderne pour développer leur
                                 activité, tout en garantissant aux clients une expérience d'achat sécurisée et pratique.
                             </p>
                         </div>
@@ -149,7 +149,7 @@ export default function About() {
                             <h2 className="text-4xl font-bold text-gray-900 mb-4">Nos Fonctionnalités</h2>
                             <div className="w-20 h-1 bg-blue-600 mx-auto mb-6"></div>
                             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-                                Une plateforme complète pensée pour simplifier le commerce en ligne
+                                Une plateforme complète pensée pour simplifier le commerce en ligne avec LivraCash
                             </p>
                         </div>
                         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -258,7 +258,7 @@ export default function About() {
                     <div className="container mx-auto px-4 text-center">
                         <h2 className="text-4xl font-bold mb-6">Prêt à Commencer ?</h2>
                         <p className="text-xl mb-8 max-w-2xl mx-auto">
-                            Rejoignez des milliers d'utilisateurs qui font confiance à FinMarket pour leurs achats en ligne
+                            Rejoignez des milliers d'utilisateurs qui font confiance à LivraCash pour leurs achats en ligne
                         </p>
                         <div className="flex flex-col sm:flex-row gap-4 justify-center">
                             <a

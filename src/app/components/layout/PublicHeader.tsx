@@ -17,7 +17,7 @@ export function PublicHeader() {
                     <div className="flex items-center gap-2">
                         <Link to="/" className="flex items-center gap-2">
                             <Store className="h-8 w-8 text-blue-600" />
-                            <span className="text-2xl font-bold text-gray-900">FinMarket</span>
+                            <span className="text-2xl font-bold text-gray-900">LivraCash</span>
                         </Link>
                     </div>
 

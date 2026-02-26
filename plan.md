@@ -47,7 +47,7 @@ A high-fidelity fintech marketplace inspired by KKiaPay, built with ReactJS and 
 ### 6. Admin Dashboard (Admin Role)
 - **`/src/app/pages/AdminDashboard.tsx`** - Admin overview page
 - **`/src/app/components/admin/VendorManagement.tsx`** - List and manage vendors
-- **`/src/app/components/admin/PlatformAnalytics.tsx`** - Platform-wide statistics
+ - **`/src/app/components/admin/PlatformAnalytics.tsx`** - LivraCash platform-wide statistics
 - **`/src/app/components/admin/PendingApprovals.tsx`** - KYC approvals queue
 
 ### 7. Shared UI Components
@@ -635,8 +635,8 @@ proof_of_address: [File]
 {
   "success": true,
   "data": {
-    "platform_revenue": 125000000,
-    "platform_commissions": 2500000,
+    "platform_revenue": 125000000, // LivraCash platform revenue
+    "platform_commissions": 2500000, // LivraCash platform commissions
     "total_vendors": 145,
     "active_vendors": 132,
     "pending_kyc": 13,
@@ -741,11 +741,11 @@ proof_of_address: [File]
 ## RBAC (Role-Based Access Control) System
 
 ### Roles
-1. **Admin** - Full platform access
+1. **Admin** - Full LivraCash platform access
    - View all vendors and transactions
    - Approve/reject KYC applications
-   - Manage platform settings
-   - Access platform-wide analytics
+  - Manage LivraCash platform settings
+  - Access LivraCash platform-wide analytics
 
 2. **Merchant** - Vendor access
    - View own dashboard and analytics
@@ -762,7 +762,7 @@ proof_of_address: [File]
 | View Own Analytics | ✓ | ✓ |
 | View All Vendors | ✓ | ✗ |
 | Approve KYC | ✓ | ✗ |
-| Platform Analytics | ✓ | ✗ |
+| LivraCash Platform Analytics | ✓ | ✗ |
 | Submit Onboarding | ✗ | ✓ |
 | Initiate Payments | ✗ | ✓ |
 | View Own Transactions | ✓ | ✓ |

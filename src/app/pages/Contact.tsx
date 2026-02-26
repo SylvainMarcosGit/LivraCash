@@ -43,7 +43,7 @@ export default function Contact() {
                                         <Mail className="h-6 w-6 text-blue-600 mt-1" />
                                         <div>
                                             <h3 className="font-semibold text-lg mb-1">Email</h3>
-                                            <p className="text-gray-600">contact@finmarket.com</p>
+                                            <p className="text-gray-600">contact@LivraCash.com</p>
                                         </div>
                                     </CardContent>
                                 </Card>
